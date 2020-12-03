@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "CarParking-Frontend"
+  "defaultProject": "CarParking-Frontend",
+  "cli": {
+    "analytics": "7b6ce30d-527f-4586-af4a-7b95d750ffa9"
+  }
 }
