@@ -8,6 +8,7 @@ import { CarviewComponent } from './carview/carview.component';
 import { ParkingviewComponent } from './parkingview/parkingview.component';
 import { ParkingloginComponent } from './parkinglogin/parkinglogin.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+
 @NgModule({
   declarations: [
     AppComponent,
